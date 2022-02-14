@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# 技术学习笔记
-希望能坚持下去，三分钟热度要不哋！！
-=======
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ForDre/LearningNotes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
