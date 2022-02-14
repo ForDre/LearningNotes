@@ -1,2 +1,2 @@
-# LearningNotes
-Learning Notes
+# 技术学习笔记
+希望能坚持下去，三分钟热度要不哋！！
